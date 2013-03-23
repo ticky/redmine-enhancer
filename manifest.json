@@ -3,9 +3,10 @@
   "description": "Modifies and enhances Redmine to make it more useful.",
   "version": "1.0",
   "icons": {
-    "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+    "16": "Icon-16.png",
+    "48": "Icon-48.png",
+    "64": "Icon-64.png",
+    "128": "Icon-128.png"
   },
   "permissions": [
     "tabs", "http://*/*", "https://*/*"
